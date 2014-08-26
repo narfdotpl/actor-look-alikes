@@ -8,3 +8,4 @@ Actor look-alikes
 5. [Natalie Portman, Keira Knightley](http://google.com/search?q=Natalie+Portman,+Keira+Knightley&tbm=isch)
 6. [Isla Fisher, Amy Adams](http://google.com/search?q=Isla+Fisher,+Amy+Adams&tbm=isch)
 7. [Andy Garcia, Mark Strong](http://google.com/search?q=Andy+Garcia,+Mark+Strong&tbm=isch)
+8. [Kevin Spacey, John Cusack](http://google.com/search?q=Kevin+Spacey,+John+Cusack&tbm=isch)
